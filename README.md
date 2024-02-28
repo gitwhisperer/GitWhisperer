@@ -18,9 +18,9 @@ I'm passionate about coding, technology, and all things. I believe in the power 
 
 ## Reach Me On
 
-[![Email](https://img.shields.io/badge/Email-harshittinker1979%40gmail.com-%23D14836)](mailto:harshittinker1979@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Tinker-%230077B5)](https://www.linkedin.com/in/harshit-tinker-52b04b299/)
-[![Instagram](https://img.shields.io/badge/Instagram-tinker__harshit-%23E4405F)](https://www.instagram.com/tinker_harshit/)
+[![Email](https://p1.hiclipart.com/preview/414/1006/454/black-n-white-mail-envelope-icon-png-clipart.jpg)](mailto:harshittinker1979@gmail.com)
+[![LinkedIn](https://pngimg.com/uploads/linkedIn/linkedIn_PNG26.png)](https://www.linkedin.com/in/harshit-tinker-52b04b299/)
+[![Instagram](https://image.similarpng.com/very-thumbnail/2020/06/Instagram-logo-transparent-PNG.png)](https://www.instagram.com/tinker_harshit/)
 
  
 
