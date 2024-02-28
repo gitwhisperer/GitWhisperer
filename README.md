@@ -20,10 +20,9 @@ I'm passionate about coding, technology, and all things. I believe in the power 
 
 
 
-[<img src="https://p1.hiclipart.com/preview/414/1006/454/black-n-white-mail-envelope-icon-png-clipart.jpg" alt="Email" width="30">](mailto:harshittinker1979@gmail.com){:target="_blank"}
-[<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG26.png" alt="LinkedIn" width="30">](https://www.linkedin.com/in/harshit-tinker-52b04b299/){:target="_blank"}
-[<img src="https://image.similarpng.com/very-thumbnail/2020/06/Instagram-logo-transparent-PNG.png" alt="Instagram" width="30">](https://www.instagram.com/tinker_harshit/){:target="_blank"}
-
+[<img src="https://freelogopng.com/images/all_img/1657906169gmail-logo-png.png" alt="Email" width="15" style="margin-bottom: 10px;">](mailto:harshittinker1979@gmail.com)
+[<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG26.png" alt="LinkedIn" width="15">](https://www.linkedin.com/in/harshit-tinker-52b04b299/)
+[<img src="https://freelogopng.com/images/all_img/1658586823instagram-logo-transparent.png" alt="Instagram" width="15">](https://www.instagram.com/tinker_harshit/)
 
 
 Feel free to explore, clone, and contribute to any of my repositories. I'm always open to collaboration and feedback.
