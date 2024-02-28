@@ -18,9 +18,10 @@ I'm passionate about coding, technology, and all things. I believe in the power 
 
 ## Reach Me On
 
- - Email: harshittinker1979@gmail.com
- - LinkedIn: [Harshit Tinker](https://www.linkedin.com/in/harshit-tinker-52b04b299/)
- - Instagram: [@tinker_harshit](https://www.instagram.com/tinker_harshit/)
+[![Email](https://img.shields.io/badge/Email-harshittinker1979%40gmail.com-%23D14836)](mailto:harshittinker1979@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Tinker-%230077B5)](https://www.linkedin.com/in/harshit-tinker-52b04b299/)
+[![Instagram](https://img.shields.io/badge/Instagram-tinker__harshit-%23E4405F)](https://www.instagram.com/tinker_harshit/)
+
  
 
 
